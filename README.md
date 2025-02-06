@@ -9,4 +9,5 @@ Me chamo Ryan Dearo, sou um programador Front End, estou cursando Análise e Des
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="java"/>
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDearo&layout=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDearo&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
